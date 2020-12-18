@@ -58,8 +58,8 @@
       "OBJ_14" = {
          isa = "PBXGroup";
          children = (
-            "testingSPM::testingSPM::Product",
-            "testingSPM::testingSPMTests::Product"
+            "testingSPM::testingSPMTests::Product",
+            "testingSPM::testingSPM::Product"
          );
          name = "Products";
          path = "";
@@ -491,7 +491,7 @@
             "OBJ_8"
          );
          name = "Sources";
-         path = "";
+         path = "Sources";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_8" = {
@@ -500,8 +500,8 @@
             "OBJ_9"
          );
          name = "testingSPM";
-         path = "Sources/testingSPM";
-         sourceTree = "SOURCE_ROOT";
+         path = "testingSPM";
+         sourceTree = "<group>";
       };
       "OBJ_9" = {
          isa = "PBXFileReference";
